@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">HDWallpaper</string>
+    <string name="slogan">Amazing Wallpaper in your way</string>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="version">Version</string>
+    <string name="author">Author</string>
+    <string name="company">Company</string>
+    <string name="company_name">Viavi Webtech</string>
+    <string name="email">Email</string>
+    <string name="email_address">info@viaviweb.com</string>
+    <string name="website">Website</string>
+    <string name="website_address">www.viaviweb.com</string>
+    <string name="contact">Contact</string>
+    <string name="contact_number">+91 (123) (456) (5678)</string>
+    <string name="about">About</string>
+    <string name="aboutContent">Viavi Webtech have extensive experience in web design and development, graphic design, mobile application development and online marketing.  We contribute to one another’s thoughts, ideas and pull together our passion and dedication to give our clients the very best quality of our work to maintain our reputation.</string>
+
+    <string name="category_name_and_number_posts">%1$s (%2$d)</string>
+    <string name="no_photos">No Photos</string>
+
+</resources>
